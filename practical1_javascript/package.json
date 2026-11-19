@@ -1,0 +1,31 @@
+{
+  "name": "blockchain-number-practical-1",
+  "version": "1.0.0",
+  "description": "Practical 1 - number checks stored on a simple blockchain (Node.js)",
+  "private": true,
+  "scripts": {
+    "add": "node add.js",
+    "prime": "node prime.js",
+    "happy": "node happy.js",
+    "armstrong": "node armstrong.js",
+    "perfect": "node perfect.js",
+    "krishnamurthy": "node krishnamurthy.js",
+    "palindrome": "node palindrome.js",
+    "automorphic": "node automorphic.js",
+    "neon": "node neon.js",
+    "harshad": "node harshad.js",
+    "disarium": "node disarium.js",
+    "magic": "node magic.js",
+    "spy": "node spy.js",
+    "buzz": "node buzz.js",
+    "fibonacci": "node fibonacci.js",
+    "perfect_square": "node perfect_square.js",
+    "even_odd": "node even_odd.js",
+    "anagram": "node anagram.js",
+    "all": "node run_all.js",
+    "test": "node selftest.js"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
